@@ -1,0 +1,19 @@
+tr.product {
+    border-block-end-color: black;
+    background: black;
+}
+
+td.id {
+    background-color: blue;
+    color: black;
+}
+
+td.name {
+    background-color: green;
+    color: black;
+}
+
+td.price {
+    background-color: darkred;
+    color: black;
+}
